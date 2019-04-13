@@ -9,3 +9,4 @@ The encryption algorithm is implemented in Electronic Codebook (ECB) mode using 
 
 The decryption algorithm is provided both in ECB and CBC mode.
 
+Further explanations are in "Report.pdf".
