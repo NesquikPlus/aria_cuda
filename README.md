@@ -11,4 +11,4 @@ The decryption algorithm is provided both in ECB and CBC mode.
 
 Further explanations are in "Report.pdf".
 
-This project is implemented for "MMI 713 Applied Parallel Programming on GPU" lecture term project, given in Middle East Technical University Enformatics Institute.
+This project is implemented for "MMI 713 Applied Parallel Programming on GPU" lecture term project, given in Middle East Technical University Informatics Institute.
